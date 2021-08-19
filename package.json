@@ -1,0 +1,23 @@
+{
+  "name": "resume-builder",
+  "version": "1.0.0",
+  "description": "Builds standard resume for you. All you need is to supply information in the interactive forms provided",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ridwan0029/resume-builder.git"
+  },
+  "author": "Ridwan Raji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ridwan0029/resume-builder/issues"
+  },
+  "homepage": "https://github.com/Ridwan0029/resume-builder#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
